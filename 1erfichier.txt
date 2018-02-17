@@ -2,10 +2,9 @@
 2
 3
 4
-<<<<<<< HEAD
+mod 3e branche
 mod 4e branche
 mod 4e branche #2
-=======
 mod 2e branche
 mod pre commit 2e branche
 >>>>>>> 2ebranche
